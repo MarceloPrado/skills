@@ -1,0 +1,4 @@
+		buildSettings = {
+			INFOPLIST_KEY_UILaunchScreen_Generation = NO;
+			PRODUCT_BUNDLE_IDENTIFIER = com.example.generation;
+		};

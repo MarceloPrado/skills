@@ -1,0 +1,10 @@
+name: Example
+targets:
+  Example:
+    type: application
+    platform: iOS
+    info:
+      properties:
+        UILaunchScreen: {}
+        UISupportedInterfaceOrientations: # expect: A3
+          - UIInterfaceOrientationPortrait
